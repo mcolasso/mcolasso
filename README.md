@@ -22,10 +22,8 @@
 
 ## 🚀 Projetos
 
-### 🔢 [Calculadora Simples](https://github.com/exemplo)
-Interface intuitiva para cálculos básicos desenvolvida com HTML/CSS/JS
 
-🔜 **Novos projetos em desenvolvimento...**
+### 🔜 **Novos projetos em desenvolvimento...**
 
 ---
 
